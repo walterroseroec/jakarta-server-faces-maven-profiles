@@ -4,11 +4,11 @@ Este proyecto demuestra cómo crear y configurar un proyecto de Java Web (JSF o 
 
 ## Explicación del proyecto
 
-Puedes ver a detalle el proyecto directamente desde mi canal de YouTube [https://youtu.be/EImKiIJEho8](https://youtu.be/WSGs9fbmK1E)
+Puedes ver a detalle el proyecto directamente desde mi canal de YouTube [https://youtu.be/EImKiIJEho8](https://youtu.be/EImKiIJEho8)
 
 
 ## Características
-* GConfiguración de perfiles de Maven (dev y prod)
+* Configuración de perfiles de Maven (dev y prod)
 * Exclusión del entorno de desarrollo en el compilado de producción
 
 ##  Herramientas utilizadas:
