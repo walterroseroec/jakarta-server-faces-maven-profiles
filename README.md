@@ -1,8 +1,5 @@
 # Como configurar ambientes de Producción y Desarrollo en Java Web con Maven Profiles
 
-El proyecto presentado permite las instrucciones necesarias para configurar varios perfiles en Spring Boot utilizando Properties o Yml, para múltiples entornos, 
-como desarrollo, test o producción. 
-
 Este proyecto demuestra cómo crear y configurar un proyecto de Java Web (JSF o JSP) utilizando Maven para manejar distintos entornos (desarrollo y producción). Incluye una configuración de perfiles de Maven que permite especificar archivos de configuración para cada ambiente. La configuración permite la exclusión de los recursos de desarrollo en el compilado final para producción.
 
 ## Explicación del proyecto
